@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lichking.datasource.switcher.dao.base.BaseMapper">
+
+    <insert id="insert" parameterType="com.lichking.datasource.switcher.po.TestPO">
+        insert into test(name) values (#{name})
+    </insert>
+
+</mapper>

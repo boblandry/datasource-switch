@@ -1,0 +1,15 @@
+*.iml
+*.class
+*.log*
+*.project
+logs/
+target/
+test-output/
+.settings/
+*~
+*.classpath
+*.swap
+*.sqp
+*.DS_Store
+.idea
+bin/
