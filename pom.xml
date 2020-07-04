@@ -20,7 +20,7 @@
         <log4j.version>2.13.3</log4j.version>
         <aspectj.weaver.version>1.8.5</aspectj.weaver.version>
         <cglib.version>3.1</cglib.version>
-        <mysql.driver.version>5.1.38</mysql.driver.version>
+        <mysql.driver.version>8.0.16</mysql.driver.version>
         <mybatis.plus.version>1.5</mybatis.plus.version>
         <fastjson.version>1.2.44</fastjson.version>
         <oracle.driver.version>11.2.0.1.0</oracle.driver.version>
