@@ -38,7 +38,7 @@
         <servlet.version>2.5</servlet.version>
         <guava.version>23.0</guava.version>
         <dom4j.version>1.6.1</dom4j.version>
-        <xstream.version>1.4.1</xstream.version>
+        <xstream.version>1.4.10-java7</xstream.version>
         <photo.compress.version>0.4.8</photo.compress.version>
         <simple.mail.version>5.0.6</simple.mail.version>
         <jxls.version>1.0.6</jxls.version>
